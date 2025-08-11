@@ -53,6 +53,7 @@
 
 Para usuários finais, baixe o executável pré-compilado:
 - [DeployHelper.exe](https://drive.google.com/file/d/1kIFrxGLNRkvI2hC6T_mswJd59FBaybYu/view)
+- - [Tutorial ](https://www.youtube.com/watch?v=KlOfVJrxaLk)
 
 ## 📖 Como Usar
 
